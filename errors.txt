@@ -1,0 +1,254 @@
+C3L-00622: images:dicomread:differentPatientOrientations
+ Images in the series must have same values for the attribute 'ImageOrientationPatient'.
+	C:\Program Files\MATLAB\R2022a\toolbox\images\iptformats\+images\+internal\+dicom\getSeriesDetails.m at ~
+	File: getSeriesDetails
+	C:\Program Files\MATLAB\R2022a\toolbox\images\iptformats\dicomreadVolume.m at e
+	File: dicomreadVolume
+	Z:\CompVision\Fall2024\Proj5\preprocessing_better.m at >
+	File: preprocessing_better
+
+C3L-01036: MATLAB:badsubscript
+ Index exceeds the number of array elements. Index must not exceed 0.
+	Z:\CompVision\Fall2024\Proj5\preprocessing_better.m at X
+	File: preprocessing_better
+
+C3L-01703: MATLAB:badsubscript
+ Index exceeds the number of array elements. Index must not exceed 0.
+	Z:\CompVision\Fall2024\Proj5\preprocessing_better.m at X
+	File: preprocessing_better
+
+C3L-02115: MATLAB:badsubscript
+ Index exceeds the number of array elements. Index must not exceed 0.
+	Z:\CompVision\Fall2024\Proj5\preprocessing_better.m at X
+	File: preprocessing_better
+
+C3L-02118: MATLAB:cellRefFromNonCell
+ Brace indexing is not supported for variables of this type.
+	Z:\CompVision\Fall2024\Proj5\preprocessing_better.m at 9
+	File: preprocessing_better
+
+C3L-02606: MATLAB:cellRefFromNonCell
+ Brace indexing is not supported for variables of this type.
+	Z:\CompVision\Fall2024\Proj5\preprocessing_better.m at 9
+	File: preprocessing_better
+
+C3L-02610: MATLAB:imagesci:imwrite:fileFormat
+ Unable to determine the file format from the file name.
+	C:\Program Files\MATLAB\R2022a\toolbox\matlab\imagesci\imwrite.m at ǀ
+	File: imwrite
+	Z:\CompVision\Fall2024\Proj5\preprocessing_better.m at `
+	File: preprocessing_better
+
+C3L-02613: images:dicomread:differentPatientOrientations
+ Images in the series must have same values for the attribute 'ImageOrientationPatient'.
+	C:\Program Files\MATLAB\R2022a\toolbox\images\iptformats\+images\+internal\+dicom\getSeriesDetails.m at ~
+	File: getSeriesDetails
+	C:\Program Files\MATLAB\R2022a\toolbox\images\iptformats\dicomreadVolume.m at e
+	File: dicomreadVolume
+	Z:\CompVision\Fall2024\Proj5\preprocessing_better.m at >
+	File: preprocessing_better
+
+C3L-02890: images:dicomread:differentPatientOrientations
+ Images in the series must have same values for the attribute 'ImageOrientationPatient'.
+	C:\Program Files\MATLAB\R2022a\toolbox\images\iptformats\+images\+internal\+dicom\getSeriesDetails.m at ~
+	File: getSeriesDetails
+	C:\Program Files\MATLAB\R2022a\toolbox\images\iptformats\dicomreadVolume.m at e
+	File: dicomreadVolume
+	Z:\CompVision\Fall2024\Proj5\preprocessing_better.m at >
+	File: preprocessing_better
+
+C3L-03126: images:dicomread:differentPatientOrientations
+ Images in the series must have same values for the attribute 'ImageOrientationPatient'.
+	C:\Program Files\MATLAB\R2022a\toolbox\images\iptformats\+images\+internal\+dicom\getSeriesDetails.m at ~
+	File: getSeriesDetails
+	C:\Program Files\MATLAB\R2022a\toolbox\images\iptformats\dicomreadVolume.m at e
+	File: dicomreadVolume
+	Z:\CompVision\Fall2024\Proj5\preprocessing_better.m at >
+	File: preprocessing_better
+
+C3L-03348: MATLAB:badsubscript
+ Index exceeds the number of array elements. Index must not exceed 0.
+	Z:\CompVision\Fall2024\Proj5\preprocessing_better.m at X
+	File: preprocessing_better
+
+C3L-03350: images:dicomread:differentPatientOrientations
+ Images in the series must have same values for the attribute 'ImageOrientationPatient'.
+	C:\Program Files\MATLAB\R2022a\toolbox\images\iptformats\+images\+internal\+dicom\getSeriesDetails.m at ~
+	File: getSeriesDetails
+	C:\Program Files\MATLAB\R2022a\toolbox\images\iptformats\dicomreadVolume.m at e
+	File: dicomreadVolume
+	Z:\CompVision\Fall2024\Proj5\preprocessing_better.m at >
+	File: preprocessing_better
+
+C3L-03628: images:dicomread:differentPatientOrientations
+ Images in the series must have same values for the attribute 'ImageOrientationPatient'.
+	C:\Program Files\MATLAB\R2022a\toolbox\images\iptformats\+images\+internal\+dicom\getSeriesDetails.m at ~
+	File: getSeriesDetails
+	C:\Program Files\MATLAB\R2022a\toolbox\images\iptformats\dicomreadVolume.m at e
+	File: dicomreadVolume
+	Z:\CompVision\Fall2024\Proj5\preprocessing_better.m at >
+	File: preprocessing_better
+
+C3L-05121: images:dicomread:differentPatientOrientations
+ Images in the series must have same values for the attribute 'ImageOrientationPatient'.
+	C:\Program Files\MATLAB\R2022a\toolbox\images\iptformats\+images\+internal\+dicom\getSeriesDetails.m at ~
+	File: getSeriesDetails
+	C:\Program Files\MATLAB\R2022a\toolbox\images\iptformats\dicomreadVolume.m at e
+	File: dicomreadVolume
+	Z:\CompVision\Fall2024\Proj5\preprocessing_better.m at >
+	File: preprocessing_better
+
+C3L-05578: MATLAB:badsubscript
+ Index exceeds the number of array elements. Index must not exceed 0.
+	Z:\CompVision\Fall2024\Proj5\preprocessing_better.m at X
+	File: preprocessing_better
+
+C3L-05745: images:dicomread:differentPatientOrientations
+ Images in the series must have same values for the attribute 'ImageOrientationPatient'.
+	C:\Program Files\MATLAB\R2022a\toolbox\images\iptformats\+images\+internal\+dicom\getSeriesDetails.m at ~
+	File: getSeriesDetails
+	C:\Program Files\MATLAB\R2022a\toolbox\images\iptformats\dicomreadVolume.m at e
+	File: dicomreadVolume
+	Z:\CompVision\Fall2024\Proj5\preprocessing_better.m at >
+	File: preprocessing_better
+
+C3L-05746: images:dicomread:differentPatientOrientations
+ Images in the series must have same values for the attribute 'ImageOrientationPatient'.
+	C:\Program Files\MATLAB\R2022a\toolbox\images\iptformats\+images\+internal\+dicom\getSeriesDetails.m at ~
+	File: getSeriesDetails
+	C:\Program Files\MATLAB\R2022a\toolbox\images\iptformats\dicomreadVolume.m at e
+	File: dicomreadVolume
+	Z:\CompVision\Fall2024\Proj5\preprocessing_better.m at >
+	File: preprocessing_better
+
+C3L-05750: MATLAB:badsubscript
+ Index exceeds the number of array elements. Index must not exceed 0.
+	Z:\CompVision\Fall2024\Proj5\preprocessing_better.m at X
+	File: preprocessing_better
+
+C3N-00198: MATLAB:badsubscript
+ Index exceeds the number of array elements. Index must not exceed 0.
+	Z:\CompVision\Fall2024\Proj5\preprocessing_better.m at X
+	File: preprocessing_better
+
+C3N-00302: MATLAB:badsubscript
+ Index exceeds the number of array elements. Index must not exceed 0.
+	Z:\CompVision\Fall2024\Proj5\preprocessing_better.m at X
+	File: preprocessing_better
+
+C3N-00303: MATLAB:imagesci:imwrite:fileFormat
+ Unable to determine the file format from the file name.
+	C:\Program Files\MATLAB\R2022a\toolbox\matlab\imagesci\imwrite.m at ǀ
+	File: imwrite
+	Z:\CompVision\Fall2024\Proj5\preprocessing_better.m at `
+	File: preprocessing_better
+
+C3N-00512: MATLAB:badsubscript
+ Index exceeds the number of array elements. Index must not exceed 0.
+	Z:\CompVision\Fall2024\Proj5\preprocessing_better.m at X
+	File: preprocessing_better
+
+C3N-00514: images:dicomread:differentPatientOrientations
+ Images in the series must have same values for the attribute 'ImageOrientationPatient'.
+	C:\Program Files\MATLAB\R2022a\toolbox\images\iptformats\+images\+internal\+dicom\getSeriesDetails.m at ~
+	File: getSeriesDetails
+	C:\Program Files\MATLAB\R2022a\toolbox\images\iptformats\dicomreadVolume.m at e
+	File: dicomreadVolume
+	Z:\CompVision\Fall2024\Proj5\preprocessing_better.m at >
+	File: preprocessing_better
+
+C3N-01166: MATLAB:badsubscript
+ Index exceeds the number of array elements. Index must not exceed 0.
+	Z:\CompVision\Fall2024\Proj5\preprocessing_better.m at X
+	File: preprocessing_better
+
+C3N-01167: MATLAB:badsubscript
+ Index exceeds the number of array elements. Index must not exceed 0.
+	Z:\CompVision\Fall2024\Proj5\preprocessing_better.m at X
+	File: preprocessing_better
+
+C3N-01375: MATLAB:imagesci:imwrite:fileFormat
+ Unable to determine the file format from the file name.
+	C:\Program Files\MATLAB\R2022a\toolbox\matlab\imagesci\imwrite.m at ǀ
+	File: imwrite
+	Z:\CompVision\Fall2024\Proj5\preprocessing_better.m at `
+	File: preprocessing_better
+
+C3N-01378: MATLAB:imagesci:imwrite:fileFormat
+ Unable to determine the file format from the file name.
+	C:\Program Files\MATLAB\R2022a\toolbox\matlab\imagesci\imwrite.m at ǀ
+	File: imwrite
+	Z:\CompVision\Fall2024\Proj5\preprocessing_better.m at `
+	File: preprocessing_better
+
+C3N-01714: MATLAB:imagesci:imwrite:fileFormat
+ Unable to determine the file format from the file name.
+	C:\Program Files\MATLAB\R2022a\toolbox\matlab\imagesci\imwrite.m at ǀ
+	File: imwrite
+	Z:\CompVision\Fall2024\Proj5\preprocessing_better.m at `
+	File: preprocessing_better
+
+C3N-01716: MATLAB:imagesci:imwrite:fileFormat
+ Unable to determine the file format from the file name.
+	C:\Program Files\MATLAB\R2022a\toolbox\matlab\imagesci\imwrite.m at ǀ
+	File: imwrite
+	Z:\CompVision\Fall2024\Proj5\preprocessing_better.m at `
+	File: preprocessing_better
+
+C3N-01897: MATLAB:badsubscript
+ Index exceeds the number of array elements. Index must not exceed 0.
+	Z:\CompVision\Fall2024\Proj5\preprocessing_better.m at X
+	File: preprocessing_better
+
+C3N-01907: images:dicomread:differentPatientOrientations
+ Images in the series must have same values for the attribute 'ImageOrientationPatient'.
+	C:\Program Files\MATLAB\R2022a\toolbox\images\iptformats\+images\+internal\+dicom\getSeriesDetails.m at ~
+	File: getSeriesDetails
+	C:\Program Files\MATLAB\R2022a\toolbox\images\iptformats\dicomreadVolume.m at e
+	File: dicomreadVolume
+	Z:\CompVision\Fall2024\Proj5\preprocessing_better.m at >
+	File: preprocessing_better
+
+C3N-02295: MATLAB:badsubscript
+ Index exceeds the number of array elements. Index must not exceed 0.
+	Z:\CompVision\Fall2024\Proj5\preprocessing_better.m at X
+	File: preprocessing_better
+
+C3N-02998: MATLAB:imagesci:imwrite:fileFormat
+ Unable to determine the file format from the file name.
+	C:\Program Files\MATLAB\R2022a\toolbox\matlab\imagesci\imwrite.m at ǀ
+	File: imwrite
+	Z:\CompVision\Fall2024\Proj5\preprocessing_better.m at `
+	File: preprocessing_better
+
+C3N-03039: MATLAB:imagesci:imwrite:fileFormat
+ Unable to determine the file format from the file name.
+	C:\Program Files\MATLAB\R2022a\toolbox\matlab\imagesci\imwrite.m at ǀ
+	File: imwrite
+	Z:\CompVision\Fall2024\Proj5\preprocessing_better.m at `
+	File: preprocessing_better
+
+C3N-03426: MATLAB:imagesci:imwrite:fileFormat
+ Unable to determine the file format from the file name.
+	C:\Program Files\MATLAB\R2022a\toolbox\matlab\imagesci\imwrite.m at ǀ
+	File: imwrite
+	Z:\CompVision\Fall2024\Proj5\preprocessing_better.m at `
+	File: preprocessing_better
+
+C3N-03430: MATLAB:badsubscript
+ Index exceeds the number of array elements. Index must not exceed 0.
+	Z:\CompVision\Fall2024\Proj5\preprocessing_better.m at X
+	File: preprocessing_better
+
+C3N-03670: MATLAB:cellRefFromNonCell
+ Brace indexing is not supported for variables of this type.
+	Z:\CompVision\Fall2024\Proj5\preprocessing_better.m at 9
+	File: preprocessing_better
+
+C3N-03754: MATLAB:imagesci:imwrite:fileFormat
+ Unable to determine the file format from the file name.
+	C:\Program Files\MATLAB\R2022a\toolbox\matlab\imagesci\imwrite.m at ǀ
+	File: imwrite
+	Z:\CompVision\Fall2024\Proj5\preprocessing_better.m at `
+	File: preprocessing_better
+
